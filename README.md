@@ -106,4 +106,4 @@ Els fitxers HTML pesen bastant i, per tant, per a la seva correcta visualitzaci�
 
 Així doncs, l'URL completa per a visualitzar, per exemple, les gràfiques de les subvencions de l'Àrea de Llengua i Literatura seria:
 
-https://htmlpreview.github.io/?https://github.com/AnnaPaty/Statistical-analysis-IRL/blob/main/subv_llengua%20-%20grafiques.html
+https://htmlpreview.github.io/?https://github.com/AnnaPaty/Statistical-analysis-IRL/blob/main/%C3%80rea%20de%20Llengua%20i%20Universitats/Subvencions/subv_llengua_grafics.html
