@@ -1,6 +1,6 @@
 # Anàlisi estadística de l'Institut Ramon Llull
 
-L’Institut Ramon Llull (IRL) és una empresa pública creada amb l’objectiu de promoure el català a l’exterior en un ampli ventall d’àmbits com l’acadèmic, les arts visuals o la traducció de textos; internacionalitzant la cultura catalana. Aquesta es troba compost per tres grans àrees: 
+L’Institut Ramon Llull (IRL) és un organisme públic creat amb l’objectiu de promoure el català a l’exterior en un ampli ventall d’àmbits com l’acadèmic, les arts visuals o la traducció de textos; internacionalitzant la cultura catalana. Aquesta es troba compost per tres grans àrees: 
 
 1.	Àrea de Creació
 2.	Àrea de Literatura
