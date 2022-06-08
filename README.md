@@ -3,7 +3,7 @@
 L’Institut Ramon Llull (IRL) és un organisme públic creat amb l’objectiu de promoure el català a l’exterior en un ampli ventall d’àmbits com l’acadèmic, les arts visuals o la traducció de textos; internacionalitzant la cultura catalana. Aquesta es troba compost per tres grans àrees: 
 
 1.	Àrea de Creació
-2.	Àrea de Literatura
+2.	Àrea de Literatura i Pensament
 3.	Àrea de Llengua i Universitats
 
 Així mateix, es troben compostes per diversos projectes sobre els quals es volen prendre accions. Totes tres tenen en comú voler treballar sobre l'anàlisi de l'atorgament de subvencions per a finançar un gran rang d'activitats que promocionen el català arreu del món. A més a més, l'Àrea de Llengua i Universitats també ha decidit focalitzar l'atenció en:
